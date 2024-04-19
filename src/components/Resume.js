@@ -7,6 +7,7 @@ const Resume = () => {
         <section id="resume">
 
             <div className="resume">
+                <h1>Resume</h1>
                 <div className="section">
                     <h2>Educational Details</h2>
                     <ul>
