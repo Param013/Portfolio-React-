@@ -25,18 +25,7 @@ const Resume = () => {
                         <li>Frontend Web-Development,C,C++,Python, Java,etc.</li>
                     </ul>
                 </div>
-                {/* <div className="section">
-                    <h2>Work Experience</h2>
-                    <div className="job">
-                        <h3>Job Title</h3>
-                        <p>Company Name | Location</p>
-                        <p>Date Range</p>
-                        <ul>
-                            <li>Responsibility 1</li>
-                            <li>Responsibility 2</li>
-                        </ul>
-                    </div>
-                </div> */}
+               
             </div>
         </section>
     );

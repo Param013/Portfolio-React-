@@ -89,13 +89,9 @@ body {
   font-size: 1.4rem;
 }
 
-.hero-content h1 {
-  font-size: 4rem;
+.hero-content div.txt{
+  font-size: 3rem;
   margin: 0;
-}
-
-.hero-content p {
-  font-size: 1.2rem;
 }
 
 /* About Section */
@@ -198,10 +194,12 @@ body {
   text-decoration: none;
   color: #007bff;
   font-weight: bold;
+  /* padding: auto; */
 }
 
 .project-card a:hover {
   color: #0056b3;
+  /* margin: 0; */
 }
 
 
